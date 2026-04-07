@@ -1,4 +1,5 @@
 🌤️ Weather App
+
 Benvenuto nella Weather App, un'applicazione completa che combina la potenza di Python per il calcolo e i test con l'eleganza di un'interfaccia Web moderna. Questo progetto è stato sviluppato seguendo le migliori pratiche di programmazione, con l'integrazione di sistemi di caching e gestione avanzata degli errori.
 
 📖 Descrizione del Progetto
